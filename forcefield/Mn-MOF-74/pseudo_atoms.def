@@ -1,0 +1,20 @@
+#number of pseudo atoms
+17
+#type    print  as  scat  mass      charge    B-factor  radii  connectivity
+UNIT     no     H   H     1.0       1.0       1.0       1.0    0
+He       yes    He  He    4.002602  0.0       1.0       1.0    0
+Mof_Oa   yes    O   O     15.9994   -0.754    1.0       1.0    0
+Mof_Ob   yes    O   O     15.9994   -0.717    1.0       1.0    0
+Mof_Oc   yes    O   O     15.9994   -0.806    1.0       1.0    0
+Mof_Ca   yes    C   C     12.0      0.85      1.0       1.448  0
+Mof_Cb   yes    C   C     12.0      -0.296    1.0       1.448  0
+Mof_Cc   yes    C   C     12.0      0.396     1.0       1.448  0
+Mof_Cd   yes    C   C     12.0      -0.203    1.0       1.448  0
+Mof_H    yes    H   H     1.0       0.187     1.0       1.0    0
+Mof_Mn   yes    Mn  Mn    54.938    1.343     1.0       1.0    0
+Ow       yes    O   O     15.9994   0.0       1.0       0.5    2
+Hw       yes    H   H     1.008     0.52422   1.0       1.00   1
+M        no     M   -     0.0       -1.04844  1.0       1.00   1
+CH4_sp3  yes    C   C     16.04246  0.0       1.0       1.00   0
+N_n2     yes    N   N     14.00674  -0.482    1.0       0.7    0
+N_com    no     N   N     0.0       0.964     1.0       0.7    0

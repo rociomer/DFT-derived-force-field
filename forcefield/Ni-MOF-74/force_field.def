@@ -1,0 +1,53 @@
+# rules to overwrite
+2
+#     pair  truncated/shifted  tailcorrections
+N_n2  N_n2  truncated          yes
+Ow    Ow    truncated          yes
+# number of defined interactions
+43
+#type   type2    interaction
+Mof_Ni  Ow       buckingham    52717.33776       97730985.8               4.85
+Mof_Ob  Ow       buckingham    191256.4          34921925.4               3.873333333
+Mof_Oc  Ow       buckingham    191256.4          15966286.36              3.39
+Mof_Ca  Ow       buckingham    338292.7333       25084475.36              3.735
+Mof_Cb  Ow       buckingham    338292.7333       18153185.98              3.351666667
+Mof_Cc  Ow       buckingham    338292.7333       119651310.9              4.385
+Mof_Cd  Ow       buckingham    338292.7333       5841036.937              3.035
+Mof_Oa  Hw       buckingham    54875.47333       4034918.849              3.976666667
+Mof_Ob  Hw       buckingham    54875.47333       4034918.849              3.976666667
+Mof_Oc  Hw       buckingham    54875.47333       4034918.849              3.976666667
+Mof_Ca  Hw       buckingham    99968.81667       3030276.89               3.519166667
+Mof_Cb  Hw       buckingham    99968.81667       3030276.89               3.519166667
+Mof_Cc  Hw       buckingham    99968.81667       3030276.89               3.519166667
+Mof_Cd  Hw       buckingham    99968.81667       3030276.89               3.519166667
+Ow      Hw       buckingham    0.0               0.0                      0.0
+Hw      Hw       buckingham    0.0               0.0                      0.0
+Mof_Ni  O_co2    buckingham    5.6221159595E5    1.09926908E7             3.340
+Mof_Oa  O_co2    buckingham    1.4313206634E5    3.3788254669E7           3.805
+Mof_Ob  O_co2    buckingham    1.4313206634E5    2.6778651722E7           3.78
+Mof_Oc  O_co2    buckingham    1.4313206634E5    2.634324168E7            3.705
+Mof_Ca  O_co2    buckingham    2.2631166802E5    2.765001156E7            3.840
+Mof_Cb  O_co2    buckingham    2.2631166802E5    2.1483617388E7           3.515
+Mof_Cc  O_co2    buckingham    2.2631166802E5    2.992168789E7            3.84
+Mof_Cd  O_co2    buckingham    2.2631166802E5    1.314693952E7            3.315
+Mof_H   O_co2    lennard-jones  56.900            2.343
+Mof_Ni  C_co2    lennard-jones  174.381899        3.014
+Mof_Oa  C_co2    lennard-jones  69.958            2.794
+Mof_Ob  C_co2    lennard-jones  69.958            2.794
+Mof_Oc  C_co2    lennard-jones  69.958            2.794
+Mof_Ca  C_co2    lennard-jones  87.738            2.904
+Mof_Cb  C_co2    lennard-jones  87.738            2.904
+Mof_Cc  C_co2    lennard-jones  87.738            2.904
+Mof_Cd  C_co2    lennard-jones  87.738            2.904
+Mof_H   C_co2    lennard-jones  68.317            2.453
+Mof_Ni  CH4_sp3  buckingham    149531.649092313  626384595.1487830000000  5.570
+Mof_Oa  CH4_sp3  buckingham    517925.276482070  70564118.2505456000000   3.485
+Mof_Ob  CH4_sp3  buckingham    517925.276482070  23575412.9502551000000   3.340
+Mof_Oc  CH4_sp3  buckingham    517925.276482070  11165287.2331501000000   2.895
+Mof_Ca  CH4_sp3  buckingham    893617.488246153  20335186.2897907000000   3.295
+Mof_Cb  CH4_sp3  buckingham    893617.488246153  20375649.4281288000000   3.095
+Mof_Cc  CH4_sp3  buckingham    893617.488246153  105755990.4175550000000  3.960
+Mof_Cd  CH4_sp3  buckingham    893617.488246153  2836187.5631197000000    2.330
+Mof_H   CH4_sp3  lennard-jones  57.24264100       3.15
+# mixing rules to overwrite
+0

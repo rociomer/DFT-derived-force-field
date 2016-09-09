@@ -1,0 +1,35 @@
+# rules to overwrite
+2
+#     pair  truncated/shifted  tailcorrections
+N_n2  N_n2  truncated          yes
+Ow    Ow    truncated          yes
+# number of defined interactions
+25
+#type   type2    interaction
+Mof_Mn  Ow       buckingham    55232.16479       51444834.25       4.255
+Mof_Ob  Ow       buckingham    191256.4          34921925.4        3.873333333
+Mof_Oc  Ow       buckingham    191256.4          15966286.36       3.39
+Mof_Ca  Ow       buckingham    338292.7333       25084475.36       3.735
+Mof_Cb  Ow       buckingham    338292.7333       18153185.98       3.351666667
+Mof_Cc  Ow       buckingham    338292.7333       119651310.9       4.385
+Mof_Cd  Ow       buckingham    338292.7333       5841036.937       3.035
+Mof_Oa  Hw       buckingham    54875.47333       4034918.849       3.976666667
+Mof_Ob  Hw       buckingham    54875.47333       4034918.849       3.976666667
+Mof_Oc  Hw       buckingham    54875.47333       4034918.849       3.976666667
+Mof_Ca  Hw       buckingham    99968.81667       3030276.89        3.519166667
+Mof_Cb  Hw       buckingham    99968.81667       3030276.89        3.519166667
+Mof_Cc  Hw       buckingham    99968.81667       3030276.89        3.519166667
+Mof_Cd  Hw       buckingham    99968.81667       3030276.89        3.519166667
+Ow      Hw       buckingham    0.0               0.0               0.0
+Hw      Hw       buckingham    0.0               0.0               0.0
+Mof_Mn  CH4_sp3  buckingham    155889.760298808  341630376.603476  5.095
+Mof_Oa  CH4_sp3  buckingham    517925.276482070  50476309.1085359  3.260
+Mof_Ob  CH4_sp3  buckingham    517925.276482070  26740479.2326220  3.370
+Mof_Oc  CH4_sp3  buckingham    517925.276482070  11881982.8009600  2.900
+Mof_Ca  CH4_sp3  buckingham    893617.488246153  44496073.4333736  3.775
+Mof_Cb  CH4_sp3  buckingham    893617.488246153  20428883.2099980  3.070
+Mof_Cc  CH4_sp3  buckingham    893617.488246153  162070733.259247  4.155
+Mof_Cd  CH4_sp3  buckingham    893617.488246153  2757707.05006260  2.340
+Mof_H   CH4_sp3  lennard-jones  57.242641         3.15
+# mixing rules to overwrite
+0
