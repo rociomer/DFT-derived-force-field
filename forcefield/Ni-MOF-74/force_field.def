@@ -5,7 +5,7 @@ N_n2  N_n2  truncated          yes
 Ow    Ow    truncated          yes
 # number of defined interactions
 43
-#type   type2    interaction
+#type   type2    interaction   A                 C                        B
 Mof_Ni  Ow       buckingham    52717.33776       97730985.8               4.85
 Mof_Ob  Ow       buckingham    191256.4          34921925.4               3.873333333
 Mof_Oc  Ow       buckingham    191256.4          15966286.36              3.39
