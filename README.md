@@ -11,7 +11,9 @@
  can be located in *molecules/*
 
 ## Comments
-The input .def files can be used as-is for simulations in COTA or RASPA.
+The input .def files can be used as-is for simulations in COTA. To use with
+ RASPA, the Buckingham potential parameters must be reordered (COTA uses
+ A C B, whereas RASPA uses A B C).
 
 Because the standard exponential-6 form approaches negative infinity as the
  distance approaches zero, it is recommended to use a 'hacked' Buckingham
